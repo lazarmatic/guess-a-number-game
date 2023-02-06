@@ -1,0 +1,56 @@
+body {
+  background-color: antiquewhite;
+  border-style: groove;
+}
+#userinput{
+  width: 40px;
+}
+#naslov {
+  font-size: 45px;
+  width: 390px;
+  color: darksalmon;
+  background-color: moccasin;
+}
+#pogodi {
+  color: darksalmon;
+  font-size: 30px;
+}
+#outputtext {
+  color: rgb(126, 41, 37);
+  font-size: 20px;
+}
+#broj {
+  width: 32px;
+}
+.submit {
+  margin-left: 10px;
+  background-color: antiquewhite;
+  color: rgb(126, 41, 37);
+  border-radius: 50%;
+  border-color: rgb(126, 41, 37);
+}
+.submit:hover {
+  color: antiquewhite;
+  background-color: rgb(126, 41, 37);
+}
+.again{
+  margin-left: 10px;
+  background-color: antiquewhite;
+  color: rgb(126, 41, 37);
+  border-radius: 50%;
+  border-color: rgb(126, 41, 37);
+}
+.again:hover {
+  color: antiquewhite;
+  background-color: rgb(126, 41, 37);
+}
+#pp{
+  color: rgb(126, 41, 37);
+  font-style: italic;
+  margin-top: 30px;
+}
+#ppp{
+  color: rgb(126, 41, 37);
+  font-style: italic;
+  margin-top: 10px;
+}
